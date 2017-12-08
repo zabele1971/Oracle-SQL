@@ -1,1 +1,1 @@
-# Oracle-SQL: sample script of executing SQL using node-oracledb
+# Oracle-SQL: sample script for executing SQL using node-oracledb
